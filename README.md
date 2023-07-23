@@ -16,6 +16,6 @@
 
 - All the object oriented design policies are used in this project.
 
-- This Library is helpful for the application programmers who needs the implementation od data structure in its application or Project.
+- This Library is helpful for the application programmers who needs the implementation of data structure in its application or Project.
 
 - In this project we provide implementation of Singly Linear Linked List, Singly Circular Linked List, Doubly Linear Linked List, Doubly Circular Linked List, Stack, Queue, Searching Algorihm, Sorting Algorithm, Binary Search Tree.
